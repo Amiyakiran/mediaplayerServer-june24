@@ -1,0 +1,49 @@
+{
+  "videos": [
+    {
+      "caption": "Kiliye (Malayalam) |ARM ",
+      "Imgurl": "https://i.ytimg.com/vi/B2UBMTA57JI/maxresdefault.jpg",
+      "emdedLink": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "id": 1
+    },
+    {
+      "caption": "Manasilaayo Video",
+      "Imgurl": "https://timesofindia.indiatimes.com/photo/msid-113196524,imgsize-245571.cms",
+      "emdedLink": "https://www.youtube.com/embed/5WsUIeNAtbM",
+      "id": 2
+    },
+    {
+      "caption": "Tere Mere Darmiyan - TSR ",
+      "Imgurl": "https://i.ytimg.com/vi/NbSrhpb5HNM/maxresdefault.jpg",
+      "emdedLink": "https://www.youtube.com/embed/NbSrhpb5HNM",
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Tere Mere Darmiyan - TSR ",
+      "url": "https://www.youtube.com/embed/NbSrhpb5HNM",
+      "timeStamp": "25/11/2024, 16:18:32",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "category": "Tamil songs",
+      "allVideos": [
+        {
+          "caption": "Tere Mere Darmiyan - TSR ",
+          "Imgurl": "https://i.ytimg.com/vi/NbSrhpb5HNM/maxresdefault.jpg",
+          "emdedLink": "https://www.youtube.com/embed/NbSrhpb5HNM",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Malayalam songs",
+      "allVideos": [],
+      "id": 2
+    }
+  ]
+}
